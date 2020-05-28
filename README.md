@@ -1,5 +1,4 @@
-# Finnet
-## Our solution for [Finnet Challenge](https://finnetchallenge.contest.codeforces.com/group/zTrliyPW3z/contest/278092/standings/groupmates/true)
+## Solution of team "Двоеточие" for [Finnet Challenge](https://job.tochka.com/challenge)
 
 So, the best score was achieved with an [ensemble](https://github.com/not-solemn-leader/finnet/blob/master/ensembling.ipynb) of 7 boostings using 256-dim node2vec [embeddings](https://github.com/not-solemn-leader/finnet/blob/master/embeddings.ipynb) + some aggregation features.
 
